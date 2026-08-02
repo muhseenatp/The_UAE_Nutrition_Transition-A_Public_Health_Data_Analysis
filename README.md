@@ -81,9 +81,9 @@ The analysis includes several visualizations such as:
 
 ## 📁 7. Files Included
 
-• Nutrition_indicators_UAE.csv – Raw dataset.
-• UAE_NutritionIndicators.ipynb – Pandas analysis and visualizations.
-• README.md – Project description and usage instructions.
+* Nutrition_indicators_UAE.csv – Raw dataset.
+* UAE_NutritionIndicators.ipynb – Pandas analysis and visualizations.
+* README.md – Project description and usage instructions.
 
 ## ⚙️ 8. How to Run & Use
 
