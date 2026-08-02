@@ -1,0 +1,2 @@
+# The_UAE_Nutrition_Transition-A_Public_Health_Data_Analysis
+A data analysis project evaluating dietary patterns, health markers, and demographic trends across the UAE. Using Python (Pandas, Matplotlib, Seaborn), raw health survey data was cleaned, processed, and visualized to reveal insights into daily caloric intake, child and adult obesity and Anaemia trends to support public health initiatives.
