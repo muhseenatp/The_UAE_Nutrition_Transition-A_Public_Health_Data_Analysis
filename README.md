@@ -15,16 +15,16 @@ Over the past four decades, rapid urbanization and economic transition in the UA
 ---
 ## 🛠️ 2. Tools & Technologies Used
 
-* **Python:** Primary programming language
-* **Jupyter Notebook:** Interactive environment for code execution and reporting
+* **Python:** Primary programming language.
+* **Jupyter Notebook:** Interactive environment for code execution and reporting.
 * **Pandas:** Data manipulation, cleaning, aggregation, and time-series pivoting.
 * **Matplotlib:** Custom multi-panel visual layouts, bar charts, and figure styling.
 * **Seaborn:** Advanced statistical plotting (box plots, linear regressions, KDE density plots, heatmaps).
-* **Plotly Express & Graph Objects:** Interactive, high-resolution time-series exploration.
+* **Plotly:** Interactive, high-resolution time-series exploration.
 ---
 ## 📊 3. Dataset Information
 
-- **Source**: UAE Health & Nutritional Survey Sample / Open Data Platform
+- **Source**: World Health Organization (WHO) - Nutrition Landscape Information System (NLiS)
 - **Key Features / Columns**:
         GHO (CODE), GHO (DISPLAY), GHO (URL), YEAR (DISPLAY),
         STARTYEAR, ENDYEAR, REGION (CODE), REGION (DISPLAY),
@@ -35,12 +35,20 @@ Over the past four decades, rapid urbanization and economic transition in the UA
 
 ## 🔄 4. Steps Followed
 
-1. **Data Import & Schema Mapping:** Standardized raw WHO column labels to a clean, uniform schema.
-2. **Data Cleaning & Filtering:** Handled missing values, filtered core metric categories across pediatric and adult weight spectrums, and eliminated deprecated parameter syntax.
-3. **Exploratory Data Analysis (EDA):** Performed data completeness checks, decadal grouping (10-year intervals), and Pearson correlation ($r$) modeling.
-4. **Visualizations:** Constructed a 14-plot visualization suite featuring text wrapping, numeric annotations, linear regressions, and interactive dashboards.
-5. **Generating Insights & Recommendations:** Automated summary reporting and generated presentation-ready PDF documentation.
-
+1. Imported the dataset using Pandas.
+2. Cleaned the data by:
+   - Removing duplicate values.
+   - Converting date and numeric columns to proper formats.
+   - Filling missing values with descriptive placeholders.
+   - Renaming columns into simple, standardized formats.
+3. Performed exploratory data analysis (EDA) using Pandas.
+4. Created visualizations using Matplotlib, Seaborn and Plotly such as:
+   - Bar plot for Distribution of Top 8 Health Indicators in Dataset.
+   - Bivariate Line Plots for Anaemia Trends in Children vs. Women. 
+   - Box plot for Distribution Spectrum of Child Malnutrition Metrics.
+   - Linear Regression Scatter Plot for comparing Underweight and Obesity.
+   - Plotly Grouped Bar for Interactive Gender Disparity Comparison.
+ 5. Generated meaningful insights and potential recommendations.
 ---
 
 ## 💡 5. Key Insights & Findings
