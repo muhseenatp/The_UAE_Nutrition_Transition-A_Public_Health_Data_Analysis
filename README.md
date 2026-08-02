@@ -85,7 +85,7 @@ The analysis includes several visualizations such as:
 * UAE_NutritionIndicators.ipynb – Pandas analysis and visualizations.
 * README.md – Project description and usage instructions.
 
-## ⚙️ 8. How to Run & Use
+## ⚙️ 8. How to Use
 
 1. Open UAE_NutritionIndicators.ipynb using Jupyter Notebook or JupyterLab.
 2. Run the notebook cells step by step to view data cleaning, analysis, and
@@ -93,7 +93,7 @@ The analysis includes several visualizations such as:
 
 ---
 
-## 🎯 9. Conclusion & Recommendations
+## 🎯 9. Conclusion
 
 This project illustrates how Python's data science stack can be leveraged to extract meaningful public health narratives from longitudinal datasets.
 The findings offer valuable historical context for policymakers, pointing toward family-centric lifestyle programs and targeted gender-specific health initiatives in the UAE.
