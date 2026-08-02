@@ -68,30 +68,32 @@ Over the past four decades, rapid urbanization and economic transition in the UA
 
 ## 📈 6. Visualizations Overview
 
-The analysis includes several visualization outputs saved in the project workflow:
-- `caloric_distribution.png`: Histogram displaying caloric intake spread across age groups.
-- `emirate_nutrient_comparison.png`: Grouped bar chart comparing macronutrients across Emirates.
-- `sugar_vs_bmi_scatter.png`: Scatter plot illustrating the relationship between sugar intake and BMI.
-- `nutrition_correlation_heatmap.png`: Matrix showing inter-variable correlations.
+The analysis includes several visualizations such as:
+* Dataset Overview: Indicator Record Distribution 
+* Gender Disparity Spread & Statistical Benchmarking
+* Linear Regression Analysis & Cross-Indicator Correlation Heatmap
+* Decade-over-Decade Shifts & Interactive Plotly Explorer
+* Anaemia Trends, Pediatric Malnutrition, and Infant Feeding Indicators
+* Combined Risk Stacked Bar, Year-over-Year Rate of Change in Adult Obesity, and Interactive Gender Comparison
+* Multi-Panel Executive Dataset Summary & Profile Dashboard
 
 ---
 
 ## 📁 7. Files Included
-• sales_data.csv – Raw dataset
-• sales_analysis.ipynb – Pandas analysis and visualizations
-• README.md – Project description and usage instructions
+• Nutrition_indicators_UAE.csv – Raw dataset.
+• UAE_NutritionIndicators.ipynb – Pandas analysis and visualizations.
+• README.md – Project description and usage instructions.
 
 ## ⚙️ 8. How to Run & Use
 
-1. Open sales_analysis.ipynb using Jupyter Notebook or JupyterLab.
+1. Open UAE_NutritionIndicators.ipynb using Jupyter Notebook or JupyterLab.
 2. Run the notebook cells step by step to view data cleaning, analysis, and
-visualizations.
-3. Step through the notebook cells to reproduce the data cleaning, exploratory analysis, and visual plots.
+   visualizations.
 
 ---
 
-## 🏁 9. Conclusion & Recommendations
+## 🎯 9. Conclusion & Recommendations
 
-This data-driven study offers valuable insights into the nutritional landscape of the UAE. By identifying critical dietary bottlenecks—such as elevated sodium/sugar consumption among younger age groups and lower fiber intake—the project highlights key focus areas for targeted public health initiatives, nutritional labeling enhancements, and awareness campaigns.
-
+This project illustrates how Python's data science stack can be leveraged to extract meaningful public health narratives from longitudinal datasets.
+The findings offer valuable historical context for policymakers, pointing toward family-centric lifestyle programs and targeted gender-specific health initiatives in the UAE.
 ---
