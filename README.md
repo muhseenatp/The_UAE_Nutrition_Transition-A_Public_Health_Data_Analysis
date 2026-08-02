@@ -80,6 +80,7 @@ The analysis includes several visualizations such as:
 ---
 
 ## 📁 7. Files Included
+
 • Nutrition_indicators_UAE.csv – Raw dataset.
 • UAE_NutritionIndicators.ipynb – Pandas analysis and visualizations.
 • README.md – Project description and usage instructions.
@@ -96,4 +97,5 @@ The analysis includes several visualizations such as:
 
 This project illustrates how Python's data science stack can be leveraged to extract meaningful public health narratives from longitudinal datasets.
 The findings offer valuable historical context for policymakers, pointing toward family-centric lifestyle programs and targeted gender-specific health initiatives in the UAE.
+
 ---
